@@ -8,3 +8,5 @@
     Delete (rm) the text file you are working with.
     Use git checkout to restore the deleted file.
     Follow this tutorial to enable access to the repository over SSH.
+
+THIS IS AN EDIT I MADE
